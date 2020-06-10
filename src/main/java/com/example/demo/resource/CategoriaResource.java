@@ -14,7 +14,7 @@ import com.example.demo.domain.Categoria;
 import com.example.demo.service.CategoriaService;
 
 @RestController
-@RequestMapping(value = "/categorias")
+@RequestMapping(value = "/categoria")
 public class CategoriaResource {
 	
 	@Autowired
